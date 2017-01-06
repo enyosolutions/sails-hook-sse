@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-sse",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Sails Hook for Server Sent Events",
   "main": "index.js",
   "sails": {
