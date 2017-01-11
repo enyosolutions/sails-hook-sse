@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/makmakulet/sails-hook-sse.git"
+    "url": "git+https://github.com/enyosolutions/sails-hook-sse.git"
   },
   "author": "makmakulet",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/makmakulet/sails-hook-sse/issues"
+    "url": "https://github.com/enyosolutions/sails-hook-sse/issues"
   },
-  "homepage": "https://github.com/makmakulet/sails-hook-sse#readme"
+  "homepage": "https://github.com/enyosolutions/sails-hook-sse#readme"
 }
